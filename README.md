@@ -5,3 +5,5 @@ This exercise is used as an assessment of basic JavaScript skills in the Mozilla
 ## Description  
 
 Now that we've looked at the fundamental building blocks of JavaScript, we'll test your knowledge of loops, functions, conditionals and events by getting you to build a fairly common item you'll see on a lot of websites — a JavaScript-powered image gallery.  
+
+From JavaScript Building Blocks [Image Gallery](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery)
