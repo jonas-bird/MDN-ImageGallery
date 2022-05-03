@@ -14,4 +14,10 @@ for (let i = 0; i < allImages.length; i++){
   newImage.setAttribute('src', newPath);
   thumbBar.appendChild(newImage);
 }
+
+/* Add an event listener to the thumBar that changes the src of displayedImage */
+thumbBar.addEventListener('click', e => {
+  displayedImage.src = e.target.src;
+})
+
 /* Wiring up the Darken/Lighten button */
